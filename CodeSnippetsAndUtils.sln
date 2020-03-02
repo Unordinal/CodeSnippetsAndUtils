@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeSnippetsAndUtils", "CodeSnippetsAndUtils\CodeSnippetsAndUtils.csproj", "{0B3092A6-ED4B-4614-9C0D-552B30513324}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7644D88D-9EE9-4C6D-876E-474CC66C42E4}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSnippetsAndUtils.UnitTests", "CodeSnippetsAndUtils.UnitTests\CodeSnippetsAndUtils.UnitTests.csproj", "{2A60214B-95F6-4330-8130-75ADC2294418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3092A6-ED4B-4614-9C0D-552B30513324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3092A6-ED4B-4614-9C0D-552B30513324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3092A6-ED4B-4614-9C0D-552B30513324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3092A6-ED4B-4614-9C0D-552B30513324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A60214B-95F6-4330-8130-75ADC2294418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A60214B-95F6-4330-8130-75ADC2294418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A60214B-95F6-4330-8130-75ADC2294418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A60214B-95F6-4330-8130-75ADC2294418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E14D22C-93FD-47F1-8DCF-D6F64505DD9B}
+	EndGlobalSection
+EndGlobal
